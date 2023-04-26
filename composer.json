@@ -1,0 +1,15 @@
+{
+    "name": "innis-maggiore/linkable-dataobjects",
+    "description": "This module adds the ability to link DataObjects in TinyMCE",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "dataobject", "link", "TinyMCE"],
+    "license": "GPL-2.0-or-later",
+    "authors": [{
+        "name": "Joe Chenevey",
+        "email": "web-dev@innismaggiore.com"
+    }],
+    "require": {
+        "silverstripe/framework": "^3.1.0",
+        "silverstripe/cms": "^3.1.0"
+    }
+}
